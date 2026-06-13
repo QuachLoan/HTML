@@ -1,0 +1,28 @@
+body{
+    background-color: pink;
+    background-image: url("../img/cute-capybara-8.jpg");
+    background-repeat: cover;
+}
+h1{
+    color: brown;
+}
+p{
+    color: white;
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify; /* căn chữ  */
+    font-weight: bold;
+    text-transform: capitalize; /* in hoa ten địa danh*/
+}
+a{
+    text-decoration: none;
+}
+ul,ol{
+  list-style: none;
+}
+table,th,td{
+    border: 1px solid red;
+    border-collapse: collapse;
+}
+
