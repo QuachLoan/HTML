@@ -40,7 +40,7 @@ label {
 }
 form{
     background-color:#e7ffff;
-    padding: 80px 50px 0 100px;
+    padding: 50px 0px 0px 50px;
     font-size: 20px;
     height: 100%;
     line-height: 50px;
@@ -52,11 +52,12 @@ form{
     float:left;
 }
 .Employee input {
- width: 900px;
+ width: 830px;
+ max-width: 100%;
 }
 .select input {
 width: 27px;
-    max-width: 100%;
+ max-width: 100%;
 
 }
 
@@ -69,7 +70,7 @@ width: 27px;
      height: 45px;
      display: flex;
     margin-top: 20px;
-    width: 900px;
+    width: 830px;
     
 }
 .choose p{
